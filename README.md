@@ -18,8 +18,8 @@ I'm open to exciting collaborations that challenge and inspire. Whether it's a c
 
 ## Connect with Me 🌐
 
-- 📫 [Email](emaanfatima19ems@gmail.com)
-- 💼 [LinkedIn](www.linkedin.com/in/emaan-fatima-30341228b/)
+- 📫 Email : emaanfatima19ems@gmail.com
+- 💼 linkedin.com/in/emaan-fatima-30341228b/
 
 Feel free to explore my repositories and reach out. Let the coding odyssey begin! 🌈✨
 
